@@ -2001,6 +2001,7 @@ Parts:
     patterns:
     - '@PART[liquidEngineprodulVR2]:AFTER[RealismOverhaul]'
     - '@PART[FASAGeminiLR87Twin]:AFTER[RealismOverhaul]'
+    - '@PART[FASAGeminiLR91]:AFTER[RealismOverhaul]' # also testing comments. just giving this part a copy of LR87 config
     configs:
     - *LR-87-3
     - *LR-87-5
@@ -2008,6 +2009,11 @@ Parts:
     - *LR-87-9
     - *LR-87-11
     - *LR-87-11A
+    - *LR-91-5
+    - *LR-91-7
+    - *LR-91-9
+    - *LR-91-11
+    - *LR-91-11A
 -   part: 'RL10'
     patterns:
     - '@PART[engineLargeSkipper]:AFTER[RealismOverhaul]'
